@@ -10,4 +10,4 @@
 
 # Description
 
-React Blog Hackodex 2023
+React Blog Application
